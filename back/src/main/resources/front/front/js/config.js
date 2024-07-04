@@ -41,7 +41,7 @@ var centerMenu = [
         url: '../yaofangCollection/list.html'
     }
     ,{
-        name: '药食两用药材收藏',
+        name: '药材收藏',
         url: '../yaoshiliangyongyaocaiCollection/list.html'
     }
 
@@ -67,7 +67,7 @@ var indexNav = [
         url: './pages/yaofang/list.html'
     },
     {
-        name: '药食两用药材',
+        name: '药材',
         url: './pages/yaoshiliangyongyaocai/list.html'
     },
     {
@@ -77,7 +77,7 @@ var indexNav = [
 
 ]
 
-var adminurl =  "http://localhost:8080/jingfangyaoshiliangyongfuwupingtai/admin/dist/index.html#/login";
+var adminurl =  "http://localhost:8081/#/index/";
 
 
 
